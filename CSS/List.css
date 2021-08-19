@@ -1,0 +1,6 @@
+ul{
+    /*list-style-type: circle;*/
+    /*list-style-image: url(star.png);*/
+    list-style: square outside url(star.png);
+    margin: 50px;
+}

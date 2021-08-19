@@ -1,0 +1,14 @@
+.bg{
+    width: 500px;
+    height: 300px;
+    background: url(6.jpg) no-repeat center;
+    overflow: hidden;
+}
+.box p{
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+    opacity: .5;
+}

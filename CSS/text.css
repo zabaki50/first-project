@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: blue;
+    /*text-transform: uppercase;*/
+    text-transform: capitalize;
+    text-indent: 25px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    line-height: 30px;
+}

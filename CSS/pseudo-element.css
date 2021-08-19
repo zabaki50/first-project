@@ -1,0 +1,8 @@
+ p::first-letter{
+     color: red;
+     font-size: 50px;
+ }
+
+ h1::before{
+     content: url(star1.png);
+ }

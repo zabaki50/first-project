@@ -1,0 +1,11 @@
+.zakaria{
+    width: 400px; height: 400px;
+    background-color: black;
+    padding: 50px 20px 80px 100px;/* Top, Right, Bottom, Left*/
+    /*padding: 50px ; Surrounded all around*/
+   /* padding: 50px 20px; Top, Bottom, Left, Right */
+    /*padding: 50px 20px 80px; Top 50px, left & right 20px, Bottom 80px*/
+}
+p{
+    color: white;
+}

@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    /*font-family: Arial, Helvetica, sans-serif;*/
+}
+p{
+    font-weight: 700;
+    /*font-style: italic;*/
+    font-style: normal;
+    /*font-size: 2em;*/
+    font-size: 4vw;
+}
